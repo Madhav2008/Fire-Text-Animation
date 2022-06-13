@@ -24,5 +24,6 @@ body {
 .text h2 {
     position: relative;
     color: #ffeb3b;
-    font-weight: 600;box-shadow: 0 0 10px #ff8c3b;
+    font-weight: 600;
+    box-shadow: 0 0 10px #ff8c3b;
 }
