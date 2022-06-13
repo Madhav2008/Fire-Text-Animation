@@ -15,4 +15,4 @@ body {
     background: #0e0e0e;
 }
 
-.text {}
+.text {position: relative;}
