@@ -18,7 +18,8 @@ body {
 .text {
     position: relative;
     width: 100%;
-    text-align: center;filter: url();
+    text-align: center;
+    filter: url();
 }
 
 .text h2 {
