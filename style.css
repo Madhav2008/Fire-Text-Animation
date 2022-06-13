@@ -17,5 +17,6 @@ body {
 
 .text {
     position: relative;
-    width: 100%;text-align: center;
+    width: 100%;
+    text-align: center;
 }
