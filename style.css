@@ -23,5 +23,5 @@ body {
 
 .text h2 {
     position: relative;
-    color: #ffeb3b;
+    color: #ffeb3b;font-weight: 600;
 }
