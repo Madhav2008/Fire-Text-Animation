@@ -21,4 +21,6 @@ body {
     text-align: center;
 }
 
-.text h2 {position: relative;}
+.text h2 {
+    position: relative;
+}
