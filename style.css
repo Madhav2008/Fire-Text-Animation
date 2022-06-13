@@ -25,7 +25,7 @@ body {
     position: relative;
     color: #ffeb3b;
     font-weight: 600;
-    font-size: 16em;
+    font-size: 16em;-webkit-box-reflect: below;
     text-shadow: 0 0 10px #ff8c3b,
         0 0 40px #ff8c3b,
         0 0 80px #ff8c3b,
